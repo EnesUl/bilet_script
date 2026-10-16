@@ -1,0 +1,5 @@
+# Gizli bilgiler ve uretilen dosyalar
+config.py
+*.log
+__pycache__/
+*.pyc
